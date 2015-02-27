@@ -7,7 +7,7 @@ gem 'pg'
 # Sinatra driver
 gem 'sinatra'
 gem 'sinatra-contrib'
-
+gem 'awesome_print'
 gem 'activesupport', '~>4.1'
 gem 'activerecord', '~>4.1'
 gem 'httparty'
