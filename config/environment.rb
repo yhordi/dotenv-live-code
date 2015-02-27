@@ -13,7 +13,8 @@ require 'pathname'
 require 'pg'
 require 'active_record'
 require 'logger'
-
+require 'httparty'
+require 'awesome_print'
 require 'sinatra'
 require "sinatra/reloader" if development?
 

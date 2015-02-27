@@ -1,6 +1,4 @@
-require 'httparty'
-require 'awesome_print'
-require 'dotenv'
+
 
   get '/' do
     p ENV['GCAL_KEY']
